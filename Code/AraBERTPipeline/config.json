@@ -1,7 +1,7 @@
 {
   "data_paths": {
-    "quran": "CleanedData/quran_lemmatized_enhanced.json",
-    "hadiths": "CleanedData/hadiths_lemmatized.json"
+    "quran": "CleanedData/quran_ceaned_arabic.json",
+    "hadiths": "CleanedData/bukhari_all_arabic_cleaned.json"
   },
   "model_settings": {
     "model_name": "CAMeL-Lab/bert-base-arabic-camelbert-msa",
